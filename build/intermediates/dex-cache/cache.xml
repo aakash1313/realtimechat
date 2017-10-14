@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\akash\.android\build-cache\d7c0bfeac8bcde69eab909990b8a98ec0aeeea70\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="580fa73d5bf63ffd04b9d66d0e75a2ed21842702">
+        <dex dex="F:\PersonalWork\TrojanTalks\app\build\intermediates\pre-dexed\debug\classes_76333957b645b20c7154ebf615c5b5a905a7bd15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\akash\.android\build-cache\3b1f147b872648601e3f55a9466875b0dd5110fb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="db0a4170961a16af6d7a5222bf90a5876eea4227">
+        <dex dex="F:\PersonalWork\TrojanTalks\app\build\intermediates\pre-dexed\debug\classes_d4aa9f096c2e758dfdcd82c02256731905eaa478.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\akash\.android\build-cache\d26f151256e1039d24a8f7847e8dfbad9962ecd4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7a343e17f154f513a09c12946fae0f172be079ec">
+        <dex dex="F:\PersonalWork\TrojanTalks\app\build\intermediates\pre-dexed\debug\classes_40e4b2dd6cff269e21e1b9e50fd27a7bce5b23d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\akash\.android\build-cache\7404e2bb1fb1e45ff427773d60e80fcc04c505cc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="F:\PersonalWork\TrojanTalks\app\build\intermediates\pre-dexed\debug\classes_51702081ec2e67b133bae88a768c64a971ece5dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\akash\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.6.1\86b122e640af09b0723e1fa44083c354ba6d9089\glide-3.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="F:\PersonalWork\TrojanTalks\app\build\intermediates\pre-dexed\debug\glide-3.6.1_d12715c056ca6575e1caa18382e159d9d91376bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\akash\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="F:\PersonalWork\TrojanTalks\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_776c6f2164716ad69401ef7f0afeb2c3ecc5eabf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\akash\.android\build-cache\43a44aaeffb60f82409977a1f8787810f42fbcb4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="F:\PersonalWork\TrojanTalks\app\build\intermediates\pre-dexed\debug\classes_ac732b1a7b2ec9f35dc86ea56213fbd0fd14ca61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\akash\.android\build-cache\d0da87055b8310c7a3a1356c1327d8e31baeeea0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="F:\PersonalWork\TrojanTalks\app\build\intermediates\pre-dexed\debug\classes_0a859d28b2e9aa08d5276097bd1ab617d1dbf6f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\akash\.android\build-cache\bb6ae11d7ec6365032ccb8ed09e4bf710a062a33\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="93a0248fe0524b4fa2d16f5f7c3cff8452796454">
+        <dex dex="F:\PersonalWork\TrojanTalks\app\build\intermediates\pre-dexed\debug\classes_46b6fc5a8f603777cf06080b7976a2d25858d47b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\akash\.android\build-cache\c5c1e68ed62bd220665df7061df688a728b45f13\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bd11b3899f275668a9355f19cea2c2320f5f9d14">
+        <dex dex="F:\PersonalWork\TrojanTalks\app\build\intermediates\pre-dexed\debug\classes_1b2e7475cbcfd7403c45fd3b3fcd5ce716816127.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\akash\.android\build-cache\e831ef3f7dacafa2ed6bb118bd69ee53a35cabaf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="F:\PersonalWork\TrojanTalks\app\build\intermediates\pre-dexed\debug\classes_dfbd20b9d788c06d54e4dbe46073a241e4c85d64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\akash\.android\build-cache\285a8b7d62a4c8ff81d2fa79d4c4bc4a0de30d10\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f861fce2e9fa167e7fe8d8558cf2cbb910b9fb34">
+        <dex dex="F:\PersonalWork\TrojanTalks\app\build\intermediates\pre-dexed\debug\classes_3cf3b48e7900a910950c09ee8edb2792fd8cce9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\akash\.android\build-cache\4451319408a53f173a297320b124db23de08985a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="F:\PersonalWork\TrojanTalks\app\build\intermediates\pre-dexed\debug\classes_23d76021a7c22be617e356e8949b657079464879.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\akash\.android\build-cache\8da49ef57fb8f4d28c0739e064a9e0364b00c1d2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="42a3ae86dd3ae2876d3e95c2e6e104ae57a50a65">
+        <dex dex="F:\PersonalWork\TrojanTalks\app\build\intermediates\pre-dexed\debug\classes_8aaa77ccd2d63b4c04f1cf7cf288fa890f777ba3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\akash\.android\build-cache\cb60a72e84c5990243dd8f49e2cd806c4138239a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="614b2ffd04818e865e1c02cc149c6b92e518e862">
+        <dex dex="F:\PersonalWork\TrojanTalks\app\build\intermediates\pre-dexed\debug\classes_bbea5feb3ebc8367ad9b680d2c7dc92471056bd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\akash\.android\build-cache\c1d7fb59820909dfde977aaa8729d38cfd86bc14\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\PersonalWork\TrojanTalks\app\build\intermediates\pre-dexed\debug\classes_4b701f4611915cb72b05aade88801a8f1a4eaceb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\akash\.android\build-cache\c5cf0b8a307a558643ac03c4185e219fe02faf0e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d39f676be8400123523882d189a1d84040d34339">
+        <dex dex="F:\PersonalWork\TrojanTalks\app\build\intermediates\pre-dexed\debug\classes_f37801de0bb152c072bfafcdfef0a3755a082d7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\akash\.android\build-cache\62d3e6f7957e4a6df8d1697647de6339e5df7933\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="F:\PersonalWork\TrojanTalks\app\build\intermediates\pre-dexed\debug\classes_5887d1153540bea84619d7c712c822d0bcacdd2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\akash\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="F:\PersonalWork\TrojanTalks\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_a2afda8452aa7e208c835a17fa4b50c3bbe71a06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\akash\.android\build-cache\bf0b09ed0ef5d017360ed5a5348b8f556e49cb83\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8ac09931704b91e7b4d281f5e34b3b006b628c22">
+        <dex dex="F:\PersonalWork\TrojanTalks\app\build\intermediates\pre-dexed\debug\classes_151793dffd48b9457d3c12a8eb5b43d7f1592bb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\akash\.android\build-cache\e517bb83c757d6480db322574b6400239786f085\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5243af50631020511cf2403789678149b1a319e6">
+        <dex dex="F:\PersonalWork\TrojanTalks\app\build\intermediates\pre-dexed\debug\classes_be08a9724aa188731f5663968dc75cd3538154b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\akash\.android\build-cache\0d4b843ba5ceee92973468f68d519e5d74078688\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="F:\PersonalWork\TrojanTalks\app\build\intermediates\pre-dexed\debug\classes_d837e3e864b77676435bd75eb34247b93278894c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\akash\.android\build-cache\e7eb6564885dfb0f9fca702b37f41a1870d8d27d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0ef21408e3142ffbfbd4a7ec1762c3325c6c386c">
+        <dex dex="F:\PersonalWork\TrojanTalks\app\build\intermediates\pre-dexed\debug\classes_2b5167d9b8d079f84a17aa931aa05ed3fba8ccc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\akash\.android\build-cache\a08161f0c5fd060c4a636fbbbdbef1110ee668cd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="F:\PersonalWork\TrojanTalks\app\build\intermediates\pre-dexed\debug\classes_ca2e7d6021b46ab477631199278e23238e639487.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\akash\.android\build-cache\8053870009bb6343ee35a9b4f28f858ff7fcda72\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1f4bb2577a30d0b3268fed038ed59230709ad593">
+        <dex dex="F:\PersonalWork\TrojanTalks\app\build\intermediates\pre-dexed\debug\classes_f8814e863222318ea2b83af90d1434ea397ee045.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\akash\.android\build-cache\ce719ecf69b9654acb43cfe4ab97c53c347dd538\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="F:\PersonalWork\TrojanTalks\app\build\intermediates\pre-dexed\debug\classes_123471748aa8537ca62a8ccf716564ea8135627a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\akash\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="F:\PersonalWork\TrojanTalks\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.4.0_f1e9ab928102bfba383649f97207bbec1282ec0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\akash\.android\build-cache\bbe3f97be06ac287ccb30d19cf46b7f0ab75fd96\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="F:\PersonalWork\TrojanTalks\app\build\intermediates\pre-dexed\debug\classes_2abc52b598280a469755f45863320d6d39e5f31a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\akash\.android\build-cache\ac5f1f53dd672533d4568bd33f350cff5d2afa88\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="F:\PersonalWork\TrojanTalks\app\build\intermediates\pre-dexed\debug\classes_775ccda0b48d33c4c51b23b82f027ecab7e967c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\akash\.android\build-cache\e4471207a6cd9075dac1a432af9845726c280f77\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="F:\PersonalWork\TrojanTalks\app\build\intermediates\pre-dexed\debug\classes_efe4374815540d4e26c40a364de15f3de026618a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\akash\.android\build-cache\de2e5629a7249991d916ac72ed6f4d26c14e3a99\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f6afcfbf1989631424f9ceaae6ee24777d3cf6ba">
+        <dex dex="F:\PersonalWork\TrojanTalks\app\build\intermediates\pre-dexed\debug\classes_14ebf3cbe33e1529e05bd3698de873597f1e6107.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\akash\.android\build-cache\75cb3c6b169e89da1249b1b01a146c5e030f60ba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a9f41e6463de88c3f979d796382fc24fb7e9cd41">
+        <dex dex="F:\PersonalWork\TrojanTalks\app\build\intermediates\pre-dexed\debug\classes_0786f04ee59bc670fe6d5ad56b758ba844aad380.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\akash\.android\build-cache\ce7a419927d5d04a6a89e1426fa89290f01bce34\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="F:\PersonalWork\TrojanTalks\app\build\intermediates\pre-dexed\debug\classes_21ccc4e8911c3e274f8933723c63e17045810c09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\akash\.android\build-cache\0304c7530e3d12e4c69849c68b851c626b5d81f0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="74d1712880eb2b4ab37ddf3c6a3232c883756726">
+        <dex dex="F:\PersonalWork\TrojanTalks\app\build\intermediates\pre-dexed\debug\classes_31c8531d9b1481eb0478016c4851d60f55859007.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "601715759008",
+    "firebase_url": "https://trojantalks.firebaseio.com",
+    "project_id": "trojantalks",
+    "storage_bucket": "trojantalks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601715759008:android:64e58dacc0483faa",
+        "android_client_info": {
+          "package_name": "com.google.firebase.udacity.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601715759008-ugo7npuh7ilga1lklsung96buj8s9q1v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.udacity.friendlychat",
+            "certificate_hash": "6cae85ff551aafd9f7c7f10e6843b0219f34219b"
+          }
+        },
+        {
+          "client_id": "601715759008-kpi95ldddr0sjkdkuhivepif9584llt0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN0QCJdvc4Tt-G__IDPaZsovQsME3TQTc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601715759008-kpi95ldddr0sjkdkuhivepif9584llt0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601715759008:android:94f7e48aa67784ad",
+        "android_client_info": {
+          "package_name": "personal.trojantalks.com.trojantalks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601715759008-fhvah3bm2kau1tti270lsr6avnol1c0b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "personal.trojantalks.com.trojantalks",
+            "certificate_hash": "ff0588d237a5b74a1beb345cc334ab5e9d0da142"
+          }
+        },
+        {
+          "client_id": "601715759008-kpi95ldddr0sjkdkuhivepif9584llt0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN0QCJdvc4Tt-G__IDPaZsovQsME3TQTc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601715759008-kpi95ldddr0sjkdkuhivepif9584llt0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
